@@ -33,4 +33,4 @@ output_label = ttk.Label(master = window,
 output_label.pack(pady = 5)   # Allows output to be shown in the window, with padding/space above and below it
 
 # run
-window.mainloop()    # Sjows the window with all the widgets added
+window.mainloop()    # Shows the window with all the widgets added
